@@ -3,3 +3,10 @@
 __pycache__/
 *.pyc
 chroma_db/
+
+# 当前项目实际运行数据
+data/store/
+data/uploads/
+
+# 可选：如果项目里所有 .npy 都是生成物
+# *.npy
